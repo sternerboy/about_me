@@ -38,14 +38,11 @@
 - Book & view **appointments**  
 - Both doctors and pet owners manage appointment details  
 *(Currently offline features only)*  
-
 ---
 
 ## 📊 GitHub Stats  
 
 ![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sternerboy&show_icons=true&theme=tokyonight&rank_icon=github)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sternerboy&layout=compact&theme=tokyonight)  
 
 ---
 
