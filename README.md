@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamid Ali  
 
-🎓 **BSCS Graduate** | 🌐 **WordPress Developer** | 📱 **React Native Enthusiast** | 🖧 **Assistant Network Administrator @ University of Southern Punjab**  
+🎓 **BSCS Graduate** | 🌐 **WordPress Developer** | 📱 **React Native Enthusiast** | 🖧 **Assistant Network Administrator @ University of Southern Punjab, Multan, Punjab  Pakistan**  
 
 ---
 
