@@ -43,9 +43,9 @@
 
 ## 📊 GitHub Stats  
 
-![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sterner_boy&show_icons=true&theme=tokyonight&rank_icon=github)  
+![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sternerboy&show_icons=true&theme=tokyonight&rank_icon=github)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sterner_boy&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sternerboy&layout=compact&theme=tokyonight)  
 
 ---
 
